@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import resume from "./resume.pdf";
+import resume from "../../../static/resume.pdf";
 import { Worker } from "@react-pdf-viewer/core";
 import { Viewer } from "@react-pdf-viewer/core";
 import { defaultLayoutPlugin } from "@react-pdf-viewer/default-layout";

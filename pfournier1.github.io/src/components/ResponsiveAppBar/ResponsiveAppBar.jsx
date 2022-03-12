@@ -10,7 +10,7 @@ const ResponsiveAppBar = (props) => {
     <AppBar position="static" sx={{ backgroundColor: "white" }}>
       <Container maxWidth="xl">
         <Toolbar disableGutters>
-          <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
+          <Box sx={{ flexGrow: 1, display: { xs: "flex" } }}>
             {props.pages.map((page) => (
               <Button
                 key={page}
