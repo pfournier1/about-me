@@ -11,7 +11,7 @@ const TechItem = (props) => {
       sm={6}
       md={4}
     >
-      <img src={props.image} width="40%" />
+      <img src={props.image} width="40%" alt="tech" />
     </Grid>
   );
 };

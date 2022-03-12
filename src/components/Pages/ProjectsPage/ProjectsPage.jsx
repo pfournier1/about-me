@@ -1,11 +1,4 @@
-import {
-  Grid,
-  Typography,
-  Card,
-  CardMedia,
-  CardContent,
-  CardActions,
-} from "@mui/material";
+import { Grid, Typography, Card, CardMedia, CardContent } from "@mui/material";
 import DjangoImage from "../../../static/django_logo.png";
 import ReactImage from "../../../static/react_logo.png";
 import StyledButton from "../../UI/StyledButton";
