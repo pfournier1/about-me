@@ -2,6 +2,7 @@
   "name": "pfournier1.github.io",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://pfournier1.github.io/pfournier1.github.io",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
@@ -52,6 +53,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "http://pfournier1.github.io/about_me"
+  }
 }
